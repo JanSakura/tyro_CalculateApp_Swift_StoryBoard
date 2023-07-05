@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Story
 //
-//  Created by lianwendi on 2023/7/4.
+//  Created by JanSakura on 2023/7/4.
 //
 
 import UIKit
